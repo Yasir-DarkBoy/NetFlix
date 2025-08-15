@@ -19,8 +19,9 @@ body {
 }
 .h {
   text-align: center;
-  color: mediumturquoise;
-  font-weight: 700;
+  color: rgb(47, 166, 170);
+  font-weight: 600;
+  font-style: italic;
   font-size: larger;
   position: relative;
   z-index: 10px;
