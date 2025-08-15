@@ -30,7 +30,7 @@
 
 ## 📫 Connect With Me
 - **GitHub:** [github.com/YasirAwaan](https://github.com/Yasir-DarkBoy)  
-- **Email:** yasirawan2847@gmail.com  
+- **Email:** https://github.com/YasirAwaan
 - **LinkedIn:** (No Account)
 
 ---
