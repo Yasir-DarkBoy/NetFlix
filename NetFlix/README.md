@@ -34,5 +34,9 @@
 - **LinkedIn:** (No Account)
 
 ---
-
+## 📂 How to Use
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/YasirAwaan/NetFlix.git
+---
 ✨ _"Code. Create. Inspire."_ ✨
